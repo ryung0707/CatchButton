@@ -13,7 +13,7 @@
   * 메시지 박스 이름 변경(검거 성공.)
   * 단계별 메시지
 - 3단계 난이도 조정(잡을 수록 점점 작아짐)
-<img width="796" height="473" alt="image" src="https://github.com/user-attachments/assets/7ef3cba2-ca1f-4cb1-af3e-529e9e921d39" />
+  <img width="796" height="473" alt="image" src="https://github.com/user-attachments/assets/7ef3cba2-ca1f-4cb1-af3e-529e9e921d39" />
 
   * 210 / 80인 버튼 크기를 -21 / -80 만큼 줄여 난이도 상승
   * 잡고 나면, 단계상승
